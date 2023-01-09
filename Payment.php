@@ -38,8 +38,8 @@
 						<!-- Panel Body -->
 						<div class="panel-body" style="color:black; background-color:#f9f9f9;">					
 							<ul class="list-group" style="list-style: none;">
-								<li class="list-group-item"> Name: Shehryar Khan </li>
-								<li class="list-group-item"> 0301-4055158 </li>
+								<li class="list-group-item"> Name: Akbar Hussain Sabri </li>
+								<li class="list-group-item"> 0301-XXXXXXX </li>
 							</ul>
 						</div>
 					</div>
@@ -59,8 +59,8 @@
 						<!-- Panel Body -->
 						<div class="panel-body" style="color:black; background-color:#f9f9f9;">					
 							<ul class="list-group" style="list-style: none;">
-								<li class="list-group-item"> Name: Shehryar Khan </li>
-								<li class="list-group-item"> 0301-4055158 </li>
+								<li class="list-group-item"> Name: Akbar Hussain Sabri </li>
+								<li class="list-group-item"> 0301-XXXXXXX </li>
 							</ul>
 						</div>
 					</div>
@@ -80,8 +80,8 @@
 						<!-- Panel Body -->
 						<div class="panel-body" style="color:black; background-color:#f9f9f9;">					
 							<ul class="list-group" style="list-style: none;">
-								<li class="list-group-item"> Name: Shehryar Khan </li>
-								<li class="list-group-item"> 0301-4055158 </li>
+								<li class="list-group-item"> Name: Akbar Hussain Sabri </li>
+								<li class="list-group-item"> 0301-XXXXXXX </li>
 							</ul>
 						</div>
 					</div>

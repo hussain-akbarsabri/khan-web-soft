@@ -62,9 +62,9 @@
 
 					<!-- Panel Body -->
 					<div class="panel-body" style="color:black; background-color:#f9f9f9;">					
-						<span class="glyphicon glyphicon-message"> Shehryarkhan1997@gmail.com</span>
+						<span class="glyphicon glyphicon-message"> hussain.akbarsabri@gmail.com</span>
 						<br>
-						<span class="glyphicon glyphicon-phone"> 0301-4055158</span>	
+						<span class="glyphicon glyphicon-phone"> 0301-XXXXXXX</span>	
 					</div>
 				</div>
 			</div>

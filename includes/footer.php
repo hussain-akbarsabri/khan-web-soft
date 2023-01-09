@@ -20,9 +20,9 @@
 		<div class="col-md-3">
 			<b style="font-size: 25px;">Contact Us</b>
 			<hr>
-			<span class="glyphicon glyphicon-message">Shehryarkhan1997@gmail.com</span>
+			<span class="glyphicon glyphicon-message">hussain.akbarsabri@gmail.com</span>
 			<br>
-			<span class="glyphicon glyphicon-phone"> 0301-4055158</span>
+			<span class="glyphicon glyphicon-phone"> 0301-XXXXXXX</span>
 			<br>
 			<span class="glyphicon glyphicon-comment"> Feedback  Form</span>
 		</div>
@@ -46,6 +46,6 @@
 	<hr>
 	<center>
 		<p style="font-size: 13px;">@ 2017__2019, KhanWebSoft.com | All Rights Reserved.</p>
-		<p style="font-size: 13px; margin-bottom: -20px;">Web Developed by__<a href="#">Shehryar Khan</a></p>
+		<p style="font-size: 13px; margin-bottom: -20px;">Web Developed by__<a href="#">Akbar Hussain Sabri</a></p>
 	</center>
 </div>
